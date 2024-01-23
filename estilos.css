@@ -512,6 +512,12 @@ html{
     margin-bottom: 20px;
     transition: 1s;
 }
+.portfolio .galeria .proyecto .overlay a i{
+    text-decoration: none;
+    color: #fff;
+    height: 90px;
+    width: 90px;
+}
 .portfolio .galeria .proyecto .overlay:hover{
     opacity: 1;
 }
