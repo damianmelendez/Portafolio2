@@ -3,10 +3,22 @@
     <title>Julio Damian Melendez Xia</title>
     <link href="https://damianmelendez.github.io/Portafolio2/feed.xml" rel="self" />
     <link href="https://damianmelendez.github.io/Portafolio2" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2026-01-04T14:51:24-06:00</updated>
     <author>
         <name>Julio Damian Melendez Xia</name>
     </author>
     <id>https://damianmelendez.github.io/Portafolio2</id>
 
+    <entry>
+        <title>ESTO ES UNA PRUEVA DEL MENU</title>
+        <author>
+            <name>Julio Damian Melendez Xia</name>
+        </author>
+        <link href="https://damianmelendez.github.io/Portafolio2/esto-es-una-prueva-del-menu.html"/>
+        <id>https://damianmelendez.github.io/Portafolio2/esto-es-una-prueva-del-menu.html</id>
+
+        <updated>2026-01-04T14:51:24-06:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
