@@ -9,17 +9,5 @@
         "name": "Julio Damian Melendez Xia"
     },
     "items": [
-        {
-            "id": "https://damianmelendez.github.io/Portafolio2/esto-es-una-prueva-del-menu.html",
-            "url": "https://damianmelendez.github.io/Portafolio2/esto-es-una-prueva-del-menu.html",
-            "title": "Hola, soy Julio Melendez",
-            "author": {
-                "name": "Julio Damian Melendez Xia"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-01-04T14:51:24-06:00",
-            "date_modified": "2026-01-12T16:09:16-06:00"
-        }
     ]
 }
