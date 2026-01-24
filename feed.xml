@@ -3,10 +3,31 @@
     <title>Julio Damian Melendez Xia</title>
     <link href="https://damianmelendez.github.io/Portafolio2/feed.xml" rel="self" />
     <link href="https://damianmelendez.github.io/Portafolio2" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2026-01-24T13:55:03-06:00</updated>
     <author>
         <name>Julio Damian Melendez Xia</name>
     </author>
     <id>https://damianmelendez.github.io/Portafolio2</id>
 
+    <entry>
+        <title>esto es unz pruevz</title>
+        <author>
+            <name>Julio Damian Melendez Xia</name>
+        </author>
+        <link href="https://damianmelendez.github.io/Portafolio2/esto-es-unz-pruevz.html"/>
+        <id>https://damianmelendez.github.io/Portafolio2/esto-es-unz-pruevz.html</id>
+
+        <updated>2026-01-24T13:55:03-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Garantizar la operación continua, eficiente y segura de la maquinaria textil y de impresión mediante la ejecución de mantenimiento preventivo&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="fs-6">Garantizar la operación continua, eficiente y segura de la maquinaria textil y de impresión mediante la ejecución de mantenimiento preventivo y correctivo, diagnóstico de fallas y optimización de procesos productivos. El puesto es clave para asegurar la calidad y productividad de las líneas de confección, transferencia térmica y sublimación.</p>
+<p><label class="fw-bold">REQUISITOS</label></p>
+            ]]>
+        </content>
+    </entry>
 </feed>
