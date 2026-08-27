@@ -3,12 +3,56 @@
     <title>Julio Damian Melendez Xia</title>
     <link href="https://damianmelendez.github.io/Portafolio2/feed.xml" rel="self" />
     <link href="https://damianmelendez.github.io/Portafolio2" />
-    <updated>2026-08-25T22:03:59-06:00</updated>
+    <updated>2026-08-26T22:04:37-06:00</updated>
     <author>
         <name>Julio Damian Melendez Xia</name>
     </author>
     <id>https://damianmelendez.github.io/Portafolio2</id>
 
+    <entry>
+        <title>Youtube</title>
+        <author>
+            <name>Julio Damian Melendez Xia</name>
+        </author>
+        <link href="https://damianmelendez.github.io/Portafolio2/youtube.html"/>
+        <id>https://damianmelendez.github.io/Portafolio2/youtube.html</id>
+        <media:content url="https://damianmelendez.github.io/Portafolio2/media/posts/11/historia-youtube-20-anos.jpg.webp" medium="image" />
+
+        <updated>2026-08-26T22:04:37-06:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://damianmelendez.github.io/Portafolio2/media/posts/11/historia-youtube-20-anos.jpg.webp" class="type:primaryImage" alt="" /></p>
+                <p>
+<script>
+  window.location.href = "https://www.youtube.com/@Herramientas_Tecnologia-t8o6n";
+</script>
+</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>TIK TOK</title>
+        <author>
+            <name>Julio Damian Melendez Xia</name>
+        </author>
+        <link href="https://damianmelendez.github.io/Portafolio2/tik-tok.html"/>
+        <id>https://damianmelendez.github.io/Portafolio2/tik-tok.html</id>
+        <media:content url="https://damianmelendez.github.io/Portafolio2/media/posts/10/TikTok-logo-1024x1024-2.webp" medium="image" />
+
+        <updated>2026-08-26T21:47:28-06:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://damianmelendez.github.io/Portafolio2/media/posts/10/TikTok-logo-1024x1024-2.webp" class="type:primaryImage" alt="https://www.tiktok.com/@julio.damian.mele?_r&#x3D;1&amp;_t&#x3D;ZS-99Dqsm4ZJw7" /></p>
+                <p>
+<script>
+  window.location.href = "https://www.tiktok.com/@julio.damian.mele?_r=1&_t=ZS-99Dqsm4ZJw7";
+</script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>WordPress</title>
         <author>

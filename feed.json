@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://damianmelendez.github.io/Portafolio2/youtube.html",
+            "url": "https://damianmelendez.github.io/Portafolio2/youtube.html",
+            "title": "Youtube",
+            "content_html": "<p>\n<script>\n  window.location.href = \"https://www.youtube.com/@Herramientas_Tecnologia-t8o6n\";\n</script>\n</p>",
+            "image": "https://damianmelendez.github.io/Portafolio2/media/posts/11/historia-youtube-20-anos.jpg.webp",
+            "author": {
+                "name": "Julio Damian Melendez Xia"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-26T22:04:37-06:00",
+            "date_modified": "2026-08-26T22:04:37-06:00"
+        },
+        {
+            "id": "https://damianmelendez.github.io/Portafolio2/tik-tok.html",
+            "url": "https://damianmelendez.github.io/Portafolio2/tik-tok.html",
+            "title": "TIK TOK",
+            "content_html": "<p>\n<script>\n  window.location.href = \"https://www.tiktok.com/@julio.damian.mele?_r=1&_t=ZS-99Dqsm4ZJw7\";\n</script>\n</p>",
+            "image": "https://damianmelendez.github.io/Portafolio2/media/posts/10/TikTok-logo-1024x1024-2.webp",
+            "author": {
+                "name": "Julio Damian Melendez Xia"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-26T21:47:28-06:00",
+            "date_modified": "2026-08-26T21:57:34-06:00"
+        },
+        {
             "id": "https://damianmelendez.github.io/Portafolio2/test.html",
             "url": "https://damianmelendez.github.io/Portafolio2/test.html",
             "title": "WordPress",
