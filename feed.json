@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Julio Damian Melendez Xia",
+    "title": "Damian Melendez",
     "description": "",
     "home_page_url": "https://damianmelendez.github.io/Portafolio2",
     "feed_url": "https://damianmelendez.github.io/Portafolio2/feed.json",
@@ -10,10 +10,24 @@
     },
     "items": [
         {
+            "id": "https://damianmelendez.github.io/Portafolio2/gabinetes-de-cocina.html",
+            "url": "https://damianmelendez.github.io/Portafolio2/gabinetes-de-cocina.html",
+            "title": "Pagina WordPress Gabinetes De Cocina",
+            "content_html": "<p>\n<script>\n  window.location.href = \"https://gabinetesdecocina.free.nf/\";\n</script>\n</p>",
+            "image": "https://damianmelendez.github.io/Portafolio2/media/posts/12/WordpressKitchen.webp",
+            "author": {
+                "name": "Julio Damian Melendez Xia"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-29T17:40:25-06:00",
+            "date_modified": "2026-08-29T17:41:45-06:00"
+        },
+        {
             "id": "https://damianmelendez.github.io/Portafolio2/youtube.html",
             "url": "https://damianmelendez.github.io/Portafolio2/youtube.html",
             "title": "Youtube",
-            "content_html": "<p>\n<script>\n  window.location.href = \"https://www.youtube.com/@Herramientas_Tecnologia-t8o6n\";\n</script>\n</p>",
+            "content_html": "<p>\n<script>\n  window.location.href = \"https://www.youtube.com/@Herramientas_Tecnologia-t8o6n\";\n</script>\n</p>",
             "image": "https://damianmelendez.github.io/Portafolio2/media/posts/11/historia-youtube-20-anos.jpg.webp",
             "author": {
                 "name": "Julio Damian Melendez Xia"
@@ -21,7 +35,7 @@
             "tags": [
             ],
             "date_published": "2026-08-26T22:04:37-06:00",
-            "date_modified": "2026-08-26T22:04:37-06:00"
+            "date_modified": "2026-08-29T17:30:15-06:00"
         },
         {
             "id": "https://damianmelendez.github.io/Portafolio2/tik-tok.html",

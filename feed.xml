@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Julio Damian Melendez Xia</title>
+    <title>Damian Melendez</title>
     <link href="https://damianmelendez.github.io/Portafolio2/feed.xml" rel="self" />
     <link href="https://damianmelendez.github.io/Portafolio2" />
-    <updated>2026-08-26T22:04:37-06:00</updated>
+    <updated>2026-08-29T17:41:45-06:00</updated>
     <author>
         <name>Julio Damian Melendez Xia</name>
     </author>
     <id>https://damianmelendez.github.io/Portafolio2</id>
 
+    <entry>
+        <title>Pagina WordPress Gabinetes De Cocina</title>
+        <author>
+            <name>Julio Damian Melendez Xia</name>
+        </author>
+        <link href="https://damianmelendez.github.io/Portafolio2/gabinetes-de-cocina.html"/>
+        <id>https://damianmelendez.github.io/Portafolio2/gabinetes-de-cocina.html</id>
+        <media:content url="https://damianmelendez.github.io/Portafolio2/media/posts/12/WordpressKitchen.webp" medium="image" />
+
+        <updated>2026-08-29T17:40:25-06:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://damianmelendez.github.io/Portafolio2/media/posts/12/WordpressKitchen.webp" class="type:primaryImage" alt="" /></p>
+                <p>
+<script>
+  window.location.href = "https://gabinetesdecocina.free.nf/";
+</script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Youtube</title>
         <author>
@@ -25,7 +47,7 @@
                     <p><img src="https://damianmelendez.github.io/Portafolio2/media/posts/11/historia-youtube-20-anos.jpg.webp" class="type:primaryImage" alt="" /></p>
                 <p>
 <script>
-  window.location.href = "https://www.youtube.com/@Herramientas_Tecnologia-t8o6n";
+  window.location.href = "https://www.youtube.com/@Herramientas_Tecnologia-t8o6n";
 </script>
 </p>
             ]]>
