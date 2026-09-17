@@ -3,12 +3,34 @@
     <title>Damian Melendez</title>
     <link href="https://damianmelendez.github.io/Portafolio2/feed.xml" rel="self" />
     <link href="https://damianmelendez.github.io/Portafolio2" />
-    <updated>2026-08-29T17:41:45-06:00</updated>
+    <updated>2026-09-16T17:58:51-06:00</updated>
     <author>
         <name>Julio Damian Melendez Xia</name>
     </author>
     <id>https://damianmelendez.github.io/Portafolio2</id>
 
+    <entry>
+        <title>APK Audio Dual en Android</title>
+        <author>
+            <name>Julio Damian Melendez Xia</name>
+        </author>
+        <link href="https://damianmelendez.github.io/Portafolio2/apk-audio-dual-en-android.html"/>
+        <id>https://damianmelendez.github.io/Portafolio2/apk-audio-dual-en-android.html</id>
+        <media:content url="https://damianmelendez.github.io/Portafolio2/media/posts/13/ASDFA.webp" medium="image" />
+
+        <updated>2026-09-16T17:39:45-06:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://damianmelendez.github.io/Portafolio2/media/posts/13/ASDFA.webp" class="type:primaryImage" alt="" /></p>
+                <p>
+<script>
+  window.location.href = "https://github.com/damianmelendez/VideoAPK/releases/tag/APK";
+</script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Pagina WordPress Gabinetes De Cocina</title>
         <author>

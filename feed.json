@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://damianmelendez.github.io/Portafolio2/apk-audio-dual-en-android.html",
+            "url": "https://damianmelendez.github.io/Portafolio2/apk-audio-dual-en-android.html",
+            "title": "APK Audio Dual en Android",
+            "content_html": "<p>\n<script>\n  window.location.href = \"https://github.com/damianmelendez/VideoAPK/releases/tag/APK\";\n</script>\n</p>",
+            "image": "https://damianmelendez.github.io/Portafolio2/media/posts/13/ASDFA.webp",
+            "author": {
+                "name": "Julio Damian Melendez Xia"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-16T17:39:45-06:00",
+            "date_modified": "2026-09-16T17:58:51-06:00"
+        },
+        {
             "id": "https://damianmelendez.github.io/Portafolio2/gabinetes-de-cocina.html",
             "url": "https://damianmelendez.github.io/Portafolio2/gabinetes-de-cocina.html",
             "title": "Pagina WordPress Gabinetes De Cocina",
