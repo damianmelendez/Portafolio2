@@ -3,12 +3,34 @@
     <title>Damian Melendez</title>
     <link href="https://damianmelendez.github.io/Portafolio2/feed.xml" rel="self" />
     <link href="https://damianmelendez.github.io/Portafolio2" />
-    <updated>2026-09-16T17:58:51-06:00</updated>
+    <updated>2026-09-18T17:45:03-06:00</updated>
     <author>
         <name>Julio Damian Melendez Xia</name>
     </author>
     <id>https://damianmelendez.github.io/Portafolio2</id>
 
+    <entry>
+        <title>EF SET English Certificate</title>
+        <author>
+            <name>Julio Damian Melendez Xia</name>
+        </author>
+        <link href="https://damianmelendez.github.io/Portafolio2/ef-set-english-certificate.html"/>
+        <id>https://damianmelendez.github.io/Portafolio2/ef-set-english-certificate.html</id>
+        <media:content url="https://damianmelendez.github.io/Portafolio2/media/posts/14/EF-SET-Certificate.webp" medium="image" />
+
+        <updated>2026-09-18T17:43:05-06:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://damianmelendez.github.io/Portafolio2/media/posts/14/EF-SET-Certificate.webp" class="type:primaryImage" alt="" /></p>
+                <p>
+<script>
+  window.location.href = "https://cert.efset.org/en/enGDvG";
+</script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>APK Audio Dual en Android</title>
         <author>
