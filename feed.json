@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://damianmelendez.github.io/Portafolio2/circuitos-electronicos-tinkercad.html",
+            "url": "https://damianmelendez.github.io/Portafolio2/circuitos-electronicos-tinkercad.html",
+            "title": "Circuitos Electrónicos – Tinkercad",
+            "content_html": "<p>\n<script>\n  window.location.href = \"https://www.tinkercad.com/users/cmFTZy6Dgy9?type=circuits\";\n</script>\n</p>",
+            "image": "https://damianmelendez.github.io/Portafolio2/media/posts/15/Tinkcard.webp",
+            "author": {
+                "name": "Julio Damian Melendez Xia"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-22T22:10:05-06:00",
+            "date_modified": "2026-09-22T22:10:53-06:00"
+        },
+        {
             "id": "https://damianmelendez.github.io/Portafolio2/ef-set-english-certificate.html",
             "url": "https://damianmelendez.github.io/Portafolio2/ef-set-english-certificate.html",
             "title": "EF SET English Certificate",
